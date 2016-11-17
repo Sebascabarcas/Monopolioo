@@ -1,0 +1,32 @@
+1;Advance to Go;A;200
+2;Advance to Go;A;200
+3;Pay school fees;P;150
+4;Pay school fees;P;150
+5;Doctor's fees;P;50
+6;Doctor's fees;P;50
+7;From sale of stock;C;50
+8;From sale of stock;C;50
+9;Go to Jail;AC;10
+10;Go to Jail;AC;10
+11;You are assessed for street repairs;PA;40,115
+12;You are assessed for street repairs;PA;40,115
+13;You have won second prize in a beauty contest;C;10
+14;You have won second prize in a beauty contest;C;10
+15;Pay hospital fees;P;100
+16;Pay hospital fees;P;100
+17;Life insurance matures;C;100
+18;Life insurance matures;C;100
+19;Income tax refund;C;20
+20;Income tax refund;C;20
+21;Holiday Fund matures;C;100
+22;Holiday Fund matures;C;100
+23;Receive 25 consultancy fee;C;25
+24;Receive 25 consultancy fee;C;25
+25;You inherit 100;C;100
+26;You inherit 100;C;100
+27;Get Out of Jail Free;L;0
+28;Get Out of Jail Free;L;0
+29;Bank error in your favor;C;200
+30;Bank error in your favor;C;200
+31;Grand Opera Night;CJ;50
+32;Grand Opera Night;CJ;50

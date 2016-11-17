@@ -1,0 +1,32 @@
+1;Avance hasta "GO".;A;200
+2;Avance hasta "GO".;A;200
+3;Hay que pagar su contribución de $150 para las escuelas.;P;150
+4;Hay que pagar su contribución de $150 para las escuelas.;P;150
+5;Páguense al banco $50 para su médico.;P;50
+6;Páguense al banco $50 para su médico.;P;50
+7;El banco le pagará $45 procedente de las ventas de sus acciones.;C;45
+8;El banco le pagará $45 procedente de las ventas de sus acciones.;C;45
+9;¡Al calabozo! Váyase a la directamente a la cárcel, sin pasar por "GO" ni cobrar los $200.;AC;0
+10;¡Al calabozo! Váyase a la directamente a la cárcel, sin pasar por "GO" ni cobrar los $200.;AC;0
+11;Se le impone una Contribución para Reparación de Calzadas. Pague $40 por cada casa y $115 por cada hotel.;PA;40,115
+12;Se le impone una Contribución para Reparación de Calzadas. Pague $40 por cada casa y $115 por cada hotel.;PA;40,115
+13;Usted ha ganado el segundo premio en un certamen de belleza. Puede cobrar $10.;C;10
+14;Usted ha ganado el segundo premio en un certamen de belleza. Puede cobrar $10.;C;10
+15;Su hospital le exige un pago de $100.;P;100
+16;Su hospital le exige un pago de $100.;P;100
+17;Usted hereda $100.;C;100
+18;Usted hereda $100.;C;100
+19;Le toca un reembolso a cuenta de su Contribución sobre sus Ingresos. Cobrar $20 del Banco.;C;20
+20;Le toca un reembolso a cuenta de su Contribución sobre sus Ingresos. Cobrar $20 del Banco.;C;20
+21;Cumpliose el plazo de los Ahorros para la Navidad. Pase al Banco para cobrar $100.;C;100
+22;Cumpliose el plazo de los Ahorros para la Navidad. Pase al Banco para cobrar $100.;C;100
+23;Le toca recibir $25 por servicios prestados.;C;25
+24;Le toca recibir $25 por servicios prestados.;C;25
+25;Se vence la póliza total de sus Seguros sobre la Vida. El Banco le pagará $100.;C;100
+26;Se vence la póliza total de sus Seguros sobre la Vida. El Banco le pagará $100.;C;100
+27;Salga de la Cárcel, Gratis. Puede guardarse esta tarjeta hasta que se necesite o se venda.;L;0
+28;Salga de la Cárcel, Gratis. Puede guardarse esta tarjeta hasta que se necesite o se venda.;L;0
+29;Error del Banco en favor de usted. Cobrar $200.;C;200
+30;Error del Banco en favor de usted. Cobrar $200.;C;200
+31;Apertura de la Opera. Cobre $50 de cada jugador para pagar por sus butacas de apertura.;CJ;50
+32;Apertura de la Opera. Cobre $50 de cada jugador para pagar por sus butacas de apertura.;CJ;50

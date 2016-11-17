@@ -1,0 +1,32 @@
+1;Advance to Illinois Ave;A;24
+2;Advance to Illinois Ave;A;24
+3;Reparaciones 25 por casa y 100 por hotel;PA;25,100
+4;Reparaciones 25 por casa y 100 por hotel;PA;25,100
+5;Nearest Railroad;AD;T
+6;Nearest Railroad;AD;T
+7;Nearest Railroad;AD;T
+8;Nearest Railroad;AD;T
+9;El banco paga 50;C;50
+10;El banco paga 50;C;50
+11;Go to Jail;AC;10
+12;Go to Jail;AC;10
+13;Pay each player 50;PJ;50
+14;Pay each player 50;PJ;50
+15;Nearest Utility;AD;u
+16;Nearest Utility;AD;u
+17;Go Back 3 Spaces;AA;3
+18;Go Back 3 Spaces;AA;3
+19;Advance to Reading Railroad;A;5
+20;Advance to Reading Railroad;A;5
+21;Advance to Boardwalk;A;39
+22;Advance to Boardwalk;A;39
+23;Cobre 150;C;150
+24;Cobre 150;C;150
+25;San carlos;A;11
+26;San carlos;A;11
+27;go;A;0
+28;go;A;0
+29;Pague;P;15
+30;Pague;P;15
+31;Tarjeta salida de carcel;L;0
+32;Tarjeta salida de carcel;L;0

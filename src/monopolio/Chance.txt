@@ -1,0 +1,32 @@
+1;Avanzase hasta el Avenida Illinóis.;A;24
+2;Avanzase hasta el Avenida Illinóis.;A;24
+3;Háganse Reparaciones Generales a Todas sus Propiedades. Pagará $25 para cada casa y $100 para cada hotel.;PA;25,100
+4;Háganse Reparaciones Generales a Todas sus Propiedades. Pagará $25 para cada casa y $100 para cada hotel.;PA;25,100
+5;Avance su Ficha hasta el Ferrocarril más cercano y pague a su Dueño Doble el Alquiler que le corresponde. Si el Ferrocarril carece de dueño, lo puede comprar del Banco.;A;T
+6;Avance su Ficha hasta el Ferrocarril más cercano y pague a su Dueño Doble el Alquiler que le corresponde. Si el Ferrocarril carece de dueño, lo puede comprar del Banco.;A;T
+7;Avance su Ficha hasta el Ferrocarril más cercano y pague a su Dueño Doble el Alquiler que le corresponde. Si el Ferrocarril carece de dueño, lo puede comprar del Banco.;A;T
+8;Avance su Ficha hasta el Ferrocarril más cercano y pague a su Dueño Doble el Alquiler que le corresponde. Si el Ferrocarril carece de dueño, lo puede comprar del Banco.;A;T
+9;El Banco le paga un dividendo de $50.;P;50
+10;El Banco le paga un dividendo de $50.;P;50
+11;¡Váyase directamente a la Cárcel! (No se pasa por "GO" ni se cobran los $200.);A;10
+12;¡Váyase directamente a la Cárcel! (No se pasa por "GO" ni se cobran los $200.);A;10
+13;Usted ha sido elegido Presidente del Consejo. Pague $50 a cada uno de los jugadores.;PJ;50
+14;Usted ha sido elegido Presidente del Consejo. Pague $50 a cada uno de los jugadores.;PJ;50
+15;Mueva su Ficha hasta la Utilidad más cercana. Si no tiene dueño, la puede comprar del Banco. Si tiene propietario, lance los dados y pague al propietario diez veces la suma lanzada.;A;u
+16;Mueva su Ficha hasta la Utilidad más cercana. Si no tiene dueño, la puede comprar del Banco. Si tiene propietario, lance los dados y pague al propietario diez veces la suma lanzada.;A;u
+17;¡Atras! (Retroceda su Ficha 3 espacios.);AA;3
+18;¡Atras! (Retroceda su Ficha 3 espacios.);AA;3
+19;Tomase un paseo por el F.C Reading. Si pasa sobre "GO" cóbrense $200 al Banco.;A;5
+20;Tomase un paseo por el F.C Reading. Si pasa sobre "GO" cóbrense $200 al Banco.;A;5
+21;Vayase a caminar EN EL PASEO TABLADO. (Adelante su Ficha hasta Paseo Tablado.);A;39
+22;Vayase a caminar EN EL PASEO TABLADO. (Adelante su Ficha hasta Paseo Tablado.);A;39
+23;Se vence el plazo de su inversión en la Caja de Ahorros. Cóbrense $150 al Banco.;C;150
+24;Se vence el plazo de su inversión en la Caja de Ahorros. Cóbrense $150 al Banco.;C;150
+25;Adelántese hasta el PLAZA SAN CARLOS. (Si pasa sobre "GO" cóbrense $200.);A;0
+26;Adelántese hasta el PLAZA SAN CARLOS. (Si pasa sobre "GO" cóbrense $200.);A;0
+27;¡Adelante! hasta "GO". (Cóbrense $200.);A;0
+28;¡Adelante! hasta "GO". (Cóbrense $200.);A;0
+29;Páguese para los pobres un Impuesto de $15.;P;15
+30;Páguese para los pobres un impuesto de $15.;P;15
+31;Puede guardarse esta tarjeta hasta que se necesite o se venda. Se usa para salir libre de la Cárcel.;L;0
+32;Puede guardarse esta tarjeta hasta que se necesite o se venda. Se usa para salir libre de la Cárcel.;L;0
